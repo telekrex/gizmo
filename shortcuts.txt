@@ -1,0 +1,6 @@
+mail | url | https://www.gmail.com
+wallpapers | url | https://wallhaven.cc/
+calculate, calc | url | https://www.calculatorsoup.com/
+hexcolor, hex, rgb | url | https://www.google.com/search?client=opera-gx&q=hex+color+picker
+emoji | url | https://tools.picsart.com/text/emojis/
+instagram, insta, ig | url | https://www.instagram.com

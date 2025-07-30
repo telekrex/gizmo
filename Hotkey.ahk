@@ -1,0 +1,1 @@
+﻿Home::Run "C:\Users\nitro\Gizmo\source\run.bat"
