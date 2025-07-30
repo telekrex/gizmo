@@ -7,7 +7,7 @@ A python I/O program that automates running other python scripts. Use it to spee
 ## Setup
 Required: Python 3, and a terminal.
 
-Clone or download this repository, then run `pip install -r .packages` from the `/source` folder.
+Clone or download this repository, then run `pip install -r .packages`.
 
 ## How to run and use
 Running `gizmo.py` will run Gizmo as intended (the main input/output loop).
